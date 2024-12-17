@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ006_01731_SEQ_00,福爾唐伯爵府附近的托爾斯費爾正在發愁要把工作委派給誰。
-1,TEXT_HEAVNZ006_01731_SEQ_01,托爾斯費爾拜託冒險者將晚餐會的招待券分別送給受邀的其它三大名門。將<hex:022811FF0A>EventItem<hex:F61E8B8C0103>交給艾因哈特伯爵府的巴特洛特。
+1,TEXT_HEAVNZ006_01731_SEQ_01,托爾斯費爾拜託冒險者將晚餐會的招待券分別送給受邀的其它三大家族。將<hex:022811FF0A>EventItem<hex:F61E8B8C0103>交給艾因哈特伯爵府的巴特洛特。
 2,TEXT_HEAVNZ006_01731_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E8B8C0103>交給了巴特洛特。將<hex:022811FF0A>EventItem<hex:F61E8B8C0103>交給澤梅爾伯爵府的雅妮蕾特。
 3,TEXT_HEAVNZ006_01731_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8B8C0103>交給了雅妮蕾特。將<hex:022811FF0A>EventItem<hex:F61E8B8C0103>交給狄蘭達爾伯爵府的弗拉蒙西斯。
 4,TEXT_HEAVNZ006_01731_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8B8C0103>交給了弗拉蒙西斯。向福爾唐伯爵府的托爾斯費爾報告
