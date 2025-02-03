@@ -5,7 +5,7 @@
 4. 部分的翻譯參考來源為FFXIVChnTextPatch-Souma(https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma)
 
 ### 以下為 原版FFXIVChnTextPatch-GP 的說明 ###
-# FFXIV Translation Patch Tool
+# FFXIV Translation Patch Tool(https://github.com/GpointChen/FFXIVChnTextPatch-GP)
 FFXIV的中文漢化器。更多資訊可參考[Wiki頁面](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki)。
 
 English description can be found in [Wiki pages](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki).
