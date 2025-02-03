@@ -2,10 +2,10 @@
 1. 著重在除錯與相容性的調整
 2. 此為自行開發用版本，故不多敘述操作細節，請自行尋找資訊學習
 3. 此為MOD的一種變種，使用時請自行對自己負責，並請勿造成他人困擾
-4. 部分的翻譯參考來源為FFXIVChnTextPatch-Souma(https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma)
+4. 部分的翻譯參考來源為[FFXIVChnTextPatch-Souma](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma)
 
 ### 以下為 原版FFXIVChnTextPatch-GP 的說明 ###
-# FFXIV Translation Patch Tool(https://github.com/GpointChen/FFXIVChnTextPatch-GP)
+# [FFXIV Translation Patch Tool](https://github.com/GpointChen/FFXIVChnTextPatch-GP)
 FFXIV的中文漢化器。更多資訊可參考[Wiki頁面](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki)。
 
 English description can be found in [Wiki pages](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki).
